@@ -1,0 +1,17 @@
+html{
+  background: url("../images/lined-paper.gif") no-repeat top center;
+}
+
+#header{
+  position: relative;
+  left: 75%;
+}
+
+h1 {
+  margin-top: 45px;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
