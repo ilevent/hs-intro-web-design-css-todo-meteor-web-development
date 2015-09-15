@@ -17,6 +17,7 @@ You'll be coding your solution in both `css/style.css` and `index.html`.
 **4.** What about adding a diagram image? We've got a diagram `triangle-diagram.jpg` saved in the images directory. Go ahead and add this image to the paper.
 
 ### Bonus
+* Try to see if you can center the diagram.
 
 * See if you can put a border around the image. You chose the color, width and style!
 
