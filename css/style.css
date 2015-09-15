@@ -15,3 +15,15 @@ h1 {
 p{
   text-align: center;
 }
+
+body {
+  font-family: Wingdings;
+}
+
+h1{
+  color: purple;
+}
+
+#diagram {
+  text-align: center;
+}
