@@ -22,4 +22,4 @@ You'll be coding your solution in both `css/style.css` and `index.html`.
 * See if you can put a border around the image. You chose the color, width and style!
 
 * What about a border around the header in the top right corner. Give that a try!
-<a href='https://learn.co/lessons/hs-intro-web-design-css-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-css-todo' title='Finish Your Homework!'>Finish Your Homework!</a> on Learn.co and start learning to code for free.</p>
