@@ -1,17 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Monoton);
+
 html{
   background: url("../images/lined-paper.gif") no-repeat top center;
 }
 
+body {
+  font-family: "Times New Roman"
+}
+
+
 #header{
   position: relative;
   left: 75%;
+  border-style: solid;
+  border-width: 5px;
+
 }
 
 h1 {
+  font-family: 'Monoton', cursive;
+  color: RGB(255,10,10);
   margin-top: 45px;
   text-align: center;
 }
 
 p{
   text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+  border-style: dashed;
+  border-width: 5px;
 }
